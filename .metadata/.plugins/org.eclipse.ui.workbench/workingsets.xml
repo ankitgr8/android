@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1398778159943_1" label="GCM_LIB" name="GCM_LIB">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/GCMTest" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1398746127413_0" label="Window Working Set" name="Aggregate for window 1398746127413"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1398778661893_2" label="Window Working Set" name="Aggregate for window 1398778661893"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1398781115809_3" label="Window Working Set" name="Aggregate for window 1398781115809"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1398781341333_4" label="Window Working Set" name="Aggregate for window 1398781341333"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399000934821_5" label="Window Working Set" name="Aggregate for window 1399000934821"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399084185178_6" label="Window Working Set" name="Aggregate for window 1399084185178"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1399084891446_7" label="Window Working Set" name="Aggregate for window 1399084891446"/>
+<mruList name="GCM_LIB"/>
+</workingSetManager>
